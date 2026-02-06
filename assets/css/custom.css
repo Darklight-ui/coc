@@ -1,0 +1,40 @@
+:root {
+  --color-background: #fcfcfc; /* Light background */
+  --color-surface: #f9f9f9; /* Slightly off-white surface */
+  --color-border: #e5e5e5; /* Soft gray border */
+
+  --color-text-primary: #332a25; /* Dark brown for main text */
+  --color-text-secondary: #322924; /* Slightly darker brown for secondary text */
+  --color-muted: #666666; /* Neutral muted gray */
+
+  --color-primary: #e36c08; /* Main brand orange */
+  --color-accent: #e26600; /* Secondary orange */
+  --color-danger: #e36c08; /* Orange for danger */
+  --color-warning: #e26600; /* Deep orange as warning */
+  --color-info: #332a25; /* Dark brown for info text/icons */
+}
+
+.nav-menu-shadow {
+  box-shadow: rgba(51, 42, 37, 0.08);
+}
+
+/* optional smooth transition for stickiness */
+.sticky-active {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50; /* ensures header stays on top */
+  box-shadow: 0 4px 6px rgba(51, 42, 37, 0.1); /* subtle shadow */
+  transition: all 0.3s ease;
+}
+
+.border-custom {
+  border-color: var(--color-border);
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "1.5kva 12V",
+    "code": "NW-15212",
+    "cost_price": "₦130,000",
+    "mark_up": "₦32,500",
+    "selling_price": "162,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 2,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "2kva 12V",
+    "code": "XD-W-20212",
+    "cost_price": "₦208,000",
+    "mark_up": "₦52,000",
+    "selling_price": "260,000",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 3,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "2kva 24V",
+    "code": "XD-W-20224",
+    "cost_price": "₦208,000",
+    "mark_up": "₦52,000",
+    "selling_price": "260,000",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 4,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "2.5kva 12V",
+    "code": "XD-W-25212",
+    "cost_price": "₦234,000",
+    "mark_up": "₦58,500",
+    "selling_price": "292,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 5,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "2.5kva 24V",
+    "code": "XD-W-25224",
+    "cost_price": "₦234,000",
+    "mark_up": "₦58,500",
+    "selling_price": "292,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 6,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "3.5kva 24V",
+    "code": "XD-W-35224",
+    "cost_price": "₦260,000",
+    "mark_up": "₦65,000",
+    "selling_price": "325,000",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 7,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "5kva 24V",
+    "code": "XD-W-50224",
+    "cost_price": "₦338,000",
+    "mark_up": "₦84,500",
+    "selling_price": "422,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 8,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "5kva 48V",
+    "code": "XD-W-50248",
+    "cost_price": "₦338,000",
+    "mark_up": "₦84,500",
+    "selling_price": "422,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 9,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "7.5kva 48V",
+    "code": "XD-W-75248",
+    "cost_price": "₦558,000",
+    "mark_up": "₦139,500",
+    "selling_price": "697,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 10,
+    "category": "W SERIES INVERTER (WALL MOUNTED)",
+    "item_model": "10kva 48V",
+    "code": "XD-W-10348",
+    "cost_price": "₦690,000",
+    "mark_up": "₦172,500",
+    "selling_price": "862,500",
+    "image": "Kartel W-series 1.5kva - 10Kva Inverter"
+  },
+  {
+    "id": 11,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "2.5kva 12V",
+    "code": "XD-L-25212",
+    "cost_price": "₦247,000",
+    "mark_up": "₦61,750",
+    "selling_price": "308,750",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 12,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "2.5kva 24V",
+    "code": "XD-L-25224",
+    "cost_price": "₦247,000",
+    "mark_up": "₦61,750",
+    "selling_price": "308,750",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 13,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "3.5kva 24V",
+    "code": "XD-L-35224",
+    "cost_price": "₦273,000",
+    "mark_up": "₦68,250",
+    "selling_price": "341,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 14,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "5kva 24V",
+    "code": "XD-L-50224",
+    "cost_price": "₦353,000",
+    "mark_up": "₦88,250",
+    "selling_price": "441,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 15,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "5kva 48V",
+    "code": "XD-L-50248",
+    "cost_price": "₦353,000",
+    "mark_up": "₦88,250",
+    "selling_price": "441,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 16,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "7.5kva 48V",
+    "code": "XD-L-75248",
+    "cost_price": "₦573,000",
+    "mark_up": "₦143,250",
+    "selling_price": "716,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 17,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "10kva 48V",
+    "code": "XD-L-10348",
+    "cost_price": "₦705,000",
+    "mark_up": "₦176,250",
+    "selling_price": "881,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 18,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "10kva 96V",
+    "code": "XD-L-10396",
+    "cost_price": "₦705,000",
+    "mark_up": "₦176,250",
+    "selling_price": "881,250",
+    "image": "Kartel 5kva -15kva L .jpg"
+  },
+  {
+    "id": 19,
+    "category": "L SERIES INVERTER (TOWER)",
+    "item_model": "15kva 48V",
+    "code": "WD--15348",
+    "cost_price": "₦1,057,000",
+    "mark_up": "₦264,250",
+    "selling_price": "1,321,250",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 20,
+    "category": "NB SERIES INVERTER (15KVA & ABOVE)",
+    "item_model": "15kva 96V",
+    "code": "NB-15396",
+    "cost_price": "₦1,321,000",
+    "mark_up": "₦330,250",
+    "selling_price": "1,651,250",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 21,
+    "category": "NB SERIES INVERTER (15KVA & ABOVE)",
+    "item_model": "15kva 120V",
+    "code": "NB-153120",
+    "cost_price": "₦1,380,000",
+    "mark_up": "₦345,000",
+    "selling_price": "1,725,000",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 22,
+    "category": "NB SERIES INVERTER (15KVA & ABOVE)",
+    "item_model": "20kva 120V",
+    "code": "NB-203120",
+    "cost_price": "₦2,025,000",
+    "mark_up": "₦506,250",
+    "selling_price": "2,531,250",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 23,
+    "category": "NB SERIES INVERTER (15KVA & ABOVE)",
+    "item_model": "30kva 192V",
+    "code": "NB-303192",
+    "cost_price": "₦2,290,000",
+    "mark_up": "₦572,500",
+    "selling_price": "2,862,500",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 24,
+    "category": "NB SERIES INVERTER (15KVA & ABOVE)",
+    "item_model": "40kva 240V",
+    "code": "NB-403240",
+    "cost_price": "₦3,610,000",
+    "mark_up": "₦902,500",
+    "selling_price": "4,512,500",
+    "image": "Kartel Nb series 15kva - 30kva Inveteter.jpg"
+  },
+  {
+    "id": 25,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "15kva 96V 3phase",
+    "code": "HDSX-15396",
+    "cost_price": "₦2,275,000",
+    "mark_up": "₦568,750",
+    "selling_price": "2,843,750",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 26,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "15kva 120V 3Phase",
+    "code": "HDSX-153120",
+    "cost_price": "₦2,275,000",
+    "mark_up": "₦568,750",
+    "selling_price": "2,843,750",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 27,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "20kva 96V 3phase",
+    "code": "HDSX-203120",
+    "cost_price": "₦3,581,000",
+    "mark_up": "₦895,250",
+    "selling_price": "4,476,250",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 28,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "20kva 120V 3phase",
+    "code": "HDSX-203120",
+    "cost_price": "₦3,581,000",
+    "mark_up": "₦895,250",
+    "selling_price": "4,476,250",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 29,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "20kva 192V 3phase",
+    "code": "HDSX-203120",
+    "cost_price": "₦3,581,000",
+    "mark_up": "₦895,250",
+    "selling_price": "4,476,250",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 30,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "30kva 192V 3phase",
+    "code": "HDSX-303192",
+    "cost_price": "₦3,845,000",
+    "mark_up": "₦961,250",
+    "selling_price": "4,806,250",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  },
+  {
+    "id": 31,
+    "category": "HDSX SERIES INVERTER (3 PHASE)",
+    "item_model": "50kva 360V 3phase",
+    "code": "HDSX-503360",
+    "cost_price": "₦5,870,000",
+    "mark_up": "₦1,467,500",
+    "selling_price": "7,337,500",
+    "image": "Kartel HDsX 3phase 15kva-100Kva inverter .jpg"
+  }
+]

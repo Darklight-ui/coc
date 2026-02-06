@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import "../assets/css/fonts.css";
+@import "../assets/css/custom.css";
+
+@theme {
+  --color-background: #fcfcfc; /* Light background */
+  --color-surface: #f9f9f9; /* Slightly off-white surface */
+  --color-border: #e5e5e5; /* Soft gray border */
+
+  --color-text-primary: #332a25; /* Dark brown for main text */
+  --color-text-secondary: #322924; /* Slightly darker brown for secondary text */
+  --color-muted: #666666; /* Neutral muted gray */
+
+  --color-primary: #e36c08; /* Main brand orange */
+  --color-accent: #e26600; /* Secondary orange */
+  --color-danger: #e36c08; /* Orange for danger */
+  --color-warning: #e26600; /* Deep orange as warning */
+  --color-info: #332a25; /* Dark brown for info text/icons */
+
+  --breakpoint-*: initial;
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 1000px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+  --font-kenao: "Kenao", sans-serif;
+  --font-Nexa: "Nexa", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-kenao);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    font-family: var(--font-Nexa);
+    color: var(--color-text-primary);
+  }
+}
